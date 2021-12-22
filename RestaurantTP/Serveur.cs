@@ -1,8 +1,11 @@
-﻿namespace LeGrandRestaurant
+﻿using System;
+
+
+namespace RestaurantTP
 {
     public class Serveur
     {
-        public String Nom { get; private set; }
+        public string Nom { get; private set; }
         public decimal Salaire { get; private set; }
         public decimal ChiffreAffaires { get; private set; }
 
@@ -10,6 +13,7 @@
         {
             Nom = nom;
             Salaire = salaire;
+            ChiffreAffaires = 0;
         }
         public void PrendreCommande(decimal montantCommande)
         {
