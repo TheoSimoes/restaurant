@@ -1,10 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace RestaurantTP
+﻿namespace LeGrandRestaurant
 {
-    class Serveur
+    public class Serveur
     {
+        public String Nom { get; private set; }
+        public decimal Salaire { get; private set; }
+        public decimal ChiffreAffaires { get; private set; }
+
+        public Serveur(string nom, decimal salaire)
+        {
+            Nom = nom;
+            Salaire = salaire;
+        }
+        public void PrendreCommande(decimal montantCommande)
+        {
+            ChiffreAffaires += montantCommande;
+        }
+
     }
 }

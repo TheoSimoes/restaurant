@@ -6,5 +6,16 @@ namespace RestaurantTP
 {
     class Client
     {
+        public decimal MontantAPayer { get; private set; }
+        public String Nom { get; private set; }
+
+        public Client(string nom)
+        {
+            Nom = nom;
+        }
+        public void Commander(decimal montantCommande)
+        {
+            montantAPayer += montantCommande;
+        }
     }
 }
