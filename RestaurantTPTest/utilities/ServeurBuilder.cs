@@ -16,7 +16,7 @@ namespace RestaurantTPTest
 
         public Serveur Build()
         {
-            return new Serveur(_nom);
+            return new Serveur(_nom, 0m);
         }
     }
 }
