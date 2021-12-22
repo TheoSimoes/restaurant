@@ -1,10 +1,14 @@
-﻿namespace LeGrandRestaurant.Test.Utilities
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace RestaurantTPTest
 {
     internal class ServeurBuilder
     {
         private string _nom = string.Empty;
 
-        public ServeurBuilder Nommé(string nom)
+        public ServeurBuilder Nomme(string nom)
         {
             _nom = nom;
             return this;
