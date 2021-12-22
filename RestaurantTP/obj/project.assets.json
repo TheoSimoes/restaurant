@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thieb\\Documents\\I1\\Tests\\RestaurantTP\\RestaurantTP\\RestaurantTP.csproj",
+      "projectUniqueName": "C:\\Users\\thieb\\Documents\\I1\\Tests\\RestaurantTP\\restaurant\\RestaurantTP\\RestaurantTP.csproj",
       "projectName": "RestaurantTP",
-      "projectPath": "C:\\Users\\thieb\\Documents\\I1\\Tests\\RestaurantTP\\RestaurantTP\\RestaurantTP.csproj",
+      "projectPath": "C:\\Users\\thieb\\Documents\\I1\\Tests\\RestaurantTP\\restaurant\\RestaurantTP\\RestaurantTP.csproj",
       "packagesPath": "C:\\Users\\thieb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thieb\\Documents\\I1\\Tests\\RestaurantTP\\RestaurantTP\\obj\\",
+      "outputPath": "C:\\Users\\thieb\\Documents\\I1\\Tests\\RestaurantTP\\restaurant\\RestaurantTP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

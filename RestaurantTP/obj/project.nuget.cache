@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pqLl2MAxntSpaEapr2t0uzLUcuynCwnBZpbGsLpnSQT70LDeKDUIoG/dwTFhzayjtQrBxkp03tkJIeXrzX8GEw==",
+  "dgSpecHash": "/bOY2/sNihDCtSNDoRzOqH6jNIUcBtcM6yvTqhE+hzk1wVOEYWXJ5JRCaDSADtabTdCjAUqrynEyHQwZ2CXYkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thieb\\Documents\\I1\\Tests\\RestaurantTP\\RestaurantTP\\RestaurantTP.csproj",
+  "projectFilePath": "C:\\Users\\thieb\\Documents\\I1\\Tests\\RestaurantTP\\restaurant\\RestaurantTP\\RestaurantTP.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
