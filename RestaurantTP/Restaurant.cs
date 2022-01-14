@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace LeGrandRestaurant
+namespace RestaurantTP
 {
     public class Restaurant
     {
