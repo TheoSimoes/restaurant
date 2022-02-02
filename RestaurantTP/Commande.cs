@@ -6,8 +6,22 @@ namespace RestaurantTP
 {
     class Commande
     {
-        Serveur _serveur;
-        Client _client;
-        List<Produit> _produits;
+        public Serveur LeServeur { get; private set; }
+        public Client LeClient { get; private set; }
+        public List<Produit> LesProduits { get; private set; }
+
+        Commande()
+        {
+            
+        }
+
+        public float ObtenirLaSommeDesProduits()
+        {
+            float sommeDesProduits;
+            foreach(Produit produit in LesProduits)
+            {
+                sommeDesProduits += produit.Prix;
+            }
+        }
     }
 }

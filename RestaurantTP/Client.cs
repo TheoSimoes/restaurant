@@ -15,7 +15,7 @@ namespace RestaurantTP
         }
         public void Commander(decimal montantCommande)
         {
-            montantAPayer += montantCommande;
+            MontantAPayer += montantCommande;
         }
     }
 }
