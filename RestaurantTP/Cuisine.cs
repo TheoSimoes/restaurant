@@ -12,7 +12,10 @@ namespace RestaurantTP
             restaurant = restaurant;
         }
 
-
+        public Produit changeStatut(Produit prod){
+            prod.Statut = "pret";
+            return prod;
+        }
 
     }
 }
