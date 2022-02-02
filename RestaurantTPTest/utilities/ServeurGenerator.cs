@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace RestaurantTpTest.Test.Utilities
+namespace RestaurantTP.Test.Utilities
 {
     internal class ServeurGenerator
     {

@@ -1,4 +1,4 @@
-namespace RestaurantTpTest.Test.Utilities
+namespace RestaurantTP.Test.Utilities
 {
   internal class ClientBuilder
   {

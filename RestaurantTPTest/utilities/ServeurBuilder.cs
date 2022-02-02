@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace RestaurantTPTest
+namespace RestaurantTP.Test.Utilities
 {
     internal class ServeurBuilder
     {
@@ -16,7 +16,7 @@ namespace RestaurantTPTest
 
         public Serveur Build()
         {
-            return new Serveur(_nom, 0m);
+            return new Serveur(_nom, 0);
         }
     }
 }

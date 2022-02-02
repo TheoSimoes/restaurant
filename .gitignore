@@ -1,11 +1,11 @@
 
 RestaurantTP/.vs/
 RestaurantTP/obj/
-RestaurantTPTest/obj/
-RestaurantTPTest/obj/Debug/netcoreapp3.1/RestaurantTPTest.GeneratedMSBuildEditorConfig.editorconfig
+RestaurantTP/obj/
+RestaurantTP/obj/Debug/netcoreapp3.1/RestaurantTP.GeneratedMSBuildEditorConfig.editorconfig
 RestaurantTP/.vs/RestaurantTP/v16/.suo
 RestaurantTP/obj/Debug/netcoreapp3.1/RestaurantTP.GeneratedMSBuildEditorConfig.editorconfig
-RestaurantTPTest/obj/Debug/netcoreapp3.1/RestaurantTPTest.GeneratedMSBuildEditorConfig.editorconfig
+RestaurantTP/obj/Debug/netcoreapp3.1/RestaurantTP.GeneratedMSBuildEditorConfig.editorconfig
 RestaurantTP/.vs/RestaurantTP/v16/.suo
 RestaurantTP/obj/Debug/netcoreapp3.1/RestaurantTP.assets.cache
 RestaurantTP/obj/Debug/netcoreapp3.1/RestaurantTP.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,13 +14,13 @@ RestaurantTP/obj/project.nuget.cache
 RestaurantTP/obj/RestaurantTP.csproj.nuget.dgspec.json
 RestaurantTP/obj/RestaurantTP.csproj.nuget.g.props
 RestaurantTP/RestaurantTP.sln
-RestaurantTPTest/obj/Debug/netcoreapp3.1/RestaurantTPTest.assets.cache
-RestaurantTPTest/obj/Debug/netcoreapp3.1/RestaurantTPTest.csproj.AssemblyReference.cache
-RestaurantTPTest/obj/Debug/netcoreapp3.1/RestaurantTPTest.GeneratedMSBuildEditorConfig.editorconfig
-RestaurantTPTest/obj/project.assets.json
-RestaurantTPTest/obj/project.nuget.cache
-RestaurantTPTest/obj/RestaurantTPTest.csproj.nuget.dgspec.json
-RestaurantTPTest/obj/RestaurantTPTest.csproj.nuget.g.props
-RestaurantTPTest/obj/RestaurantTPTest.csproj.nuget.g.targets
+RestaurantTP/obj/Debug/netcoreapp3.1/RestaurantTP.assets.cache
+RestaurantTP/obj/Debug/netcoreapp3.1/RestaurantTP.csproj.AssemblyReference.cache
+RestaurantTP/obj/Debug/netcoreapp3.1/RestaurantTP.GeneratedMSBuildEditorConfig.editorconfig
+RestaurantTP/obj/project.assets.json
+RestaurantTP/obj/project.nuget.cache
+RestaurantTP/obj/RestaurantTP.csproj.nuget.dgspec.json
+RestaurantTP/obj/RestaurantTP.csproj.nuget.g.props
+RestaurantTP/obj/RestaurantTP.csproj.nuget.g.targets
 .vscode/settings.json
 .vscode/tasks.json
