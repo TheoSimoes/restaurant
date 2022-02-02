@@ -4,7 +4,7 @@ using System.Text;
 
 namespace RestaurantTP
 {
-    class Commande
+    public class Commande
     {
         public Serveur LeServeur { get; private set; }
         public Client LeClient { get; private set; }
