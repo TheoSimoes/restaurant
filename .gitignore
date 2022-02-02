@@ -1,11 +1,11 @@
 
 RestaurantTP/.vs/
 RestaurantTP/obj/
-RestaurantTP/obj/
-RestaurantTP/obj/Debug/netcoreapp3.1/RestaurantTP.GeneratedMSBuildEditorConfig.editorconfig
+RestaurantTp/obj/
+RestaurantTp/obj/Debug/netcoreapp3.1/RestaurantTp.GeneratedMSBuildEditorConfig.editorconfig
 RestaurantTP/.vs/RestaurantTP/v16/.suo
 RestaurantTP/obj/Debug/netcoreapp3.1/RestaurantTP.GeneratedMSBuildEditorConfig.editorconfig
-RestaurantTP/obj/Debug/netcoreapp3.1/RestaurantTP.GeneratedMSBuildEditorConfig.editorconfig
+RestaurantTp/obj/Debug/netcoreapp3.1/RestaurantTp.GeneratedMSBuildEditorConfig.editorconfig
 RestaurantTP/.vs/RestaurantTP/v16/.suo
 RestaurantTP/obj/Debug/netcoreapp3.1/RestaurantTP.assets.cache
 RestaurantTP/obj/Debug/netcoreapp3.1/RestaurantTP.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,13 +14,13 @@ RestaurantTP/obj/project.nuget.cache
 RestaurantTP/obj/RestaurantTP.csproj.nuget.dgspec.json
 RestaurantTP/obj/RestaurantTP.csproj.nuget.g.props
 RestaurantTP/RestaurantTP.sln
-RestaurantTP/obj/Debug/netcoreapp3.1/RestaurantTP.assets.cache
-RestaurantTP/obj/Debug/netcoreapp3.1/RestaurantTP.csproj.AssemblyReference.cache
-RestaurantTP/obj/Debug/netcoreapp3.1/RestaurantTP.GeneratedMSBuildEditorConfig.editorconfig
-RestaurantTP/obj/project.assets.json
-RestaurantTP/obj/project.nuget.cache
-RestaurantTP/obj/RestaurantTP.csproj.nuget.dgspec.json
-RestaurantTP/obj/RestaurantTP.csproj.nuget.g.props
-RestaurantTP/obj/RestaurantTP.csproj.nuget.g.targets
+RestaurantTp/obj/Debug/netcoreapp3.1/RestaurantTp.assets.cache
+RestaurantTp/obj/Debug/netcoreapp3.1/RestaurantTp.csproj.AssemblyReference.cache
+RestaurantTp/obj/Debug/netcoreapp3.1/RestaurantTp.GeneratedMSBuildEditorConfig.editorconfig
+RestaurantTp/obj/project.assets.json
+RestaurantTp/obj/project.nuget.cache
+RestaurantTp/obj/RestaurantTp.csproj.nuget.dgspec.json
+RestaurantTp/obj/RestaurantTp.csproj.nuget.g.props
+RestaurantTp/obj/RestaurantTp.csproj.nuget.g.targets
 .vscode/settings.json
 .vscode/tasks.json

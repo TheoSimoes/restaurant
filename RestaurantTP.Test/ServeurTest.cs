@@ -1,8 +1,8 @@
 ﻿using System.Linq;
-using RestaurantTP.Test.Utilities;
+using RestaurantTp.Test.Utilities;
 using Xunit;
 
-namespace RestaurantTP.Test
+namespace RestaurantTp.Test
 {
     public class ServeurTest
     {
