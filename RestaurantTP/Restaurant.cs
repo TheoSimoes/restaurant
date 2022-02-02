@@ -7,7 +7,7 @@ namespace RestaurantTP
         private readonly Serveur[] _serveurs;
         public string Nom { get; private set; }
     
-        public Restaurant(params Serveur[] serveurs, string nom)
+        public Restaurant(string nom, params Serveur[] serveurs)
         {
             _serveurs = serveurs;
             Nom = nom;
