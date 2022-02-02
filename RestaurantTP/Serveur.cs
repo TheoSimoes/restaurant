@@ -13,7 +13,7 @@ namespace RestaurantTP
             Nom = nom;
             ChiffreAffaires = 0;
         }
-        public Commande PrendreCommande(Client client, Produit[] produits)
+        public Commande PrendreCommande(Client client, List<Produit> produits)
         {   
             Commande commande = new Commande(this, client);
             commande.AjouterDesProduits(produits);
