@@ -17,7 +17,7 @@ namespace RestaurantTP
             Prix = prix;
             Nom = nom;
             Stock = stock;
-            Statut = statut;
+            Statut = "non prêt";
         }
     
     }
