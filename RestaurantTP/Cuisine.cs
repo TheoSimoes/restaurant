@@ -6,10 +6,10 @@ namespace RestaurantTP
 {
     class Cuisine
     {
-        public Restaurant restaurant { get; private set; }
+        public Restaurant Restaurant { get; private set; }
         public Cuisine(Restaurant resta)
         {
-            restaurant = restaurant;
+            Restaurant = resta;
         }
 
         public Produit changeStatut(Produit prod){
