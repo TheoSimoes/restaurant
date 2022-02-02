@@ -10,18 +10,19 @@ namespace RestaurantTP
         public Client LeClient { get; private set; }
         public List<Produit> LesProduits { get; private set; }
 
-        Commande()
+        Commande(Serveur leServeur, Client leClient,)
         {
             
         }
 
         public float ObtenirLaSommeDesProduits()
         {
-            float sommeDesProduits;
+            float sommeDesProduits = 0;
             foreach(Produit produit in LesProduits)
             {
                 sommeDesProduits += produit.Prix;
             }
+            return sommeDesProduits;
         }
     }
 }
