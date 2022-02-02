@@ -18,22 +18,34 @@ namespace RestaurantTP
 
         public void AjouterUnProduit(Produit propro)
         {
-
+            LesProduits.Add(propro);
         }
 
         public void EnleverUnProduit(Produit propro)
         {
-
+            if (LesProduits.Contains(propro))
+            {
+                LesProduits.Remove(propro);
+            }
         }
 
         public void AjouterDesProduits(List<Produit> lesPropro)
         {
-
+            foreach(Produit propro in lesPropro)
+            {
+                LesProduits.Add(propro);
+            }
         }
 
         public void EnleverDesProduits(List<Produit> lesPropro)
         {
-
+            foreach (Produit propro in LesProduits)
+            {
+                if (LesProduits.Contains(propro))
+                {
+                    LesProduits.Remove(propro);
+                }
+            }
         }
 
         public float ObtenirLaSommeDesProduits()
