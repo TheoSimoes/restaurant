@@ -22,3 +22,5 @@ RestaurantTPTest/obj/project.nuget.cache
 RestaurantTPTest/obj/RestaurantTPTest.csproj.nuget.dgspec.json
 RestaurantTPTest/obj/RestaurantTPTest.csproj.nuget.g.props
 RestaurantTPTest/obj/RestaurantTPTest.csproj.nuget.g.targets
+.vscode/settings.json
+.vscode/tasks.json

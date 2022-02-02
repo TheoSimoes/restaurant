@@ -4,7 +4,7 @@ using System.Text;
 
 namespace RestaurantTP
 {
-    class Produit
+    public class Produit
     {
 
         public float Prix { get; private set; }
